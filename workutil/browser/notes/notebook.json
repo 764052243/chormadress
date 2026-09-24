@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-24T09:49:57.224Z",
+  "nodes": [
+    {
+      "id": "folder-1790243348948-cmsd2d7",
+      "type": "folder",
+      "parentId": null,
+      "title": "开发笔记",
+      "order": 0,
+      "createdAt": "2026-09-24T09:49:08.948Z",
+      "updatedAt": "2026-09-24T09:49:08.948Z"
+    },
+    {
+      "id": "folder-1790243363722-8tfouuk",
+      "type": "folder",
+      "parentId": "folder-1790243348948-cmsd2d7",
+      "title": "WORKUTIL",
+      "order": 0,
+      "createdAt": "2026-09-24T09:49:23.722Z",
+      "updatedAt": "2026-09-24T09:49:23.722Z"
+    },
+    {
+      "id": "note-1790243373834-kcxjqo4",
+      "type": "note",
+      "parentId": "folder-1790243363722-8tfouuk",
+      "title": "实时计划",
+      "order": 0,
+      "createdAt": "2026-09-24T09:49:33.834Z",
+      "updatedAt": "2026-09-24T09:49:33.834Z",
+      "contentHtml": "<p></p>"
+    },
+    {
+      "id": "note-1790243386572-efh132t",
+      "type": "note",
+      "parentId": "folder-1790243363722-8tfouuk",
+      "title": "未来计划",
+      "order": 1,
+      "createdAt": "2026-09-24T09:49:46.572Z",
+      "updatedAt": "2026-09-24T09:49:46.572Z",
+      "contentHtml": "<p></p>"
+    }
+  ]
+}
