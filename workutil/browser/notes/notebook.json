@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T09:49:57.224Z",
+  "updatedAt": "2026-09-24T09:50:35.366Z",
   "nodes": [
     {
       "id": "folder-1790243348948-cmsd2d7",
@@ -27,8 +27,8 @@
       "title": "实时计划",
       "order": 0,
       "createdAt": "2026-09-24T09:49:33.834Z",
-      "updatedAt": "2026-09-24T09:49:33.834Z",
-      "contentHtml": "<p></p>"
+      "updatedAt": "2026-09-24T09:50:26.078Z",
+      "contentHtml": "<pre style=\"color: rgb(0, 0, 0); font-family: Consolas; font-size: 12pt;\">003<span style=\"font-family:'Arial';\">把记事本开发完善<br></span><span style=\"font-family:'Arial';\">设置和弹出窗口标题样式问题<br></span><span style=\"font-family:'Arial';\">浏览器三个点增加一个智能体约定关键词</span>,<span style=\"font-family:'Arial';\">把公约中与智能体的约定显示出来</span>,<span style=\"font-family:'Arial';\">说明是干啥的</span>,<span style=\"font-family:'Arial';\">可复制那个关键词<br></span>003<span style=\"font-family:'Arial';\">定时调度<br></span>--001<span style=\"font-family:'Arial';\">浏览器提示窗口不在那里放</span>,<span style=\"font-family:'Arial';\">回填密码也是</span>,<span style=\"font-family:'Arial';\">不在那里变更浏览器大小<br></span>--<span style=\"font-family:'Arial';\">设置里把实时字体字号放出<br></span>--<span style=\"font-family:'Arial';\">有个解决</span>IDEA<span style=\"font-family:'Arial';\">杀进程的</span>TOMCAT<span style=\"font-family:'Arial';\">没关的插件<br></span>--<span style=\"font-family:'Arial';\">悬浮球显示问题<br></span>--003GIT<span style=\"font-family:'Arial';\">收藏同步直接改了</span>,<span style=\"font-family:'Arial';\">收藏配置放设置里</span>,<span style=\"font-family:'Arial';\">只要设置配了直接自动同步</span>,<span style=\"font-family:'Arial';\">记事本的东西也从里面读</span></pre><p></p>"
     },
     {
       "id": "note-1790243386572-efh132t",
@@ -37,8 +37,8 @@
       "title": "未来计划",
       "order": 1,
       "createdAt": "2026-09-24T09:49:46.572Z",
-      "updatedAt": "2026-09-24T09:49:46.572Z",
-      "contentHtml": "<p></p>"
+      "updatedAt": "2026-09-24T09:50:20.252Z",
+      "contentHtml": "<pre style=\"color: rgb(0, 0, 0); font-family: Arial; font-size: 12pt;\">工具箱改成业务一键处理类的<span style=\"font-family:'Consolas';\">,</span>名字还没定好<br>左侧菜单也按顺序调整<br>工作台叫业务工作台<span style=\"font-family:'Consolas';\">,</span>对预决算的设想放这里<br>工作空间放什么也没想好以后仿飞秋聊天室<br>通知中心<br>加上用户名密码和<span style=\"font-family:'Consolas';\">license<br></span></pre><p></p>"
     }
   ]
 }
