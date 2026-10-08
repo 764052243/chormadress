@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-08T13:08:15.959Z",
+  "updatedAt": "2026-10-08T13:09:17.278Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -181,15 +181,6 @@
       "updatedAt": "2026-09-22T02:06:56.192Z",
       "folder": "",
       "order": 5
-    },
-    {
-      "id": "bookmark-1789990932782-850922717212e",
-      "title": "本地辅助002",
-      "url": "https://chatgpt.com/c/6aafaa02-0624-83ec-a700-a4163e643c99",
-      "createdAt": "2026-09-21T11:42:12.782Z",
-      "updatedAt": "2026-09-21T11:42:12.782Z",
-      "folder": "",
-      "order": 3
     }
   ]
 }
