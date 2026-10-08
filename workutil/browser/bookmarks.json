@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-08T09:04:42.955Z",
+  "updatedAt": "2026-10-08T10:46:32.423Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -134,6 +134,22 @@
       "id": "bookmark-1791449505034-e3fd558a6bbaa",
       "title": "PDF生成机制分析",
       "url": "https://chatgpt.com/c/6ac7380a-91e4-83ec-9b6c-a7cb0d7bd8ee",
+      "createdAt": "2026-10-08T08:51:45.034Z",
+      "folder": "",
+      "order": 15
+    },
+    {
+      "id": "bookmark-1791453290241-6d0b55a623a418",
+      "title": "PDF Engine Demo",
+      "url": "http://127.0.0.1:3099/",
+      "createdAt": "2026-10-08T09:54:50.241Z",
+      "folder": "",
+      "order": 17
+    },
+    {
+      "id": "bookmark-1791449505034-e3fd558a6bbaa",
+      "title": "PDF生成机制分析",
+      "url": "https://chatgpt.com/c/6ac7745e-f838-83ec-9c28-ea633eaec279",
       "createdAt": "2026-10-08T08:51:45.034Z",
       "folder": "",
       "order": 15
