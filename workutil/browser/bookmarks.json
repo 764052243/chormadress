@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-08T10:46:54.521Z",
+  "updatedAt": "2026-10-08T10:47:06.760Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -137,6 +137,14 @@
       "createdAt": "2026-10-08T09:54:50.241Z",
       "folder": "",
       "order": 17
+    },
+    {
+      "id": "bookmark-1791449505034-e3fd558a6bbaa",
+      "title": "PDF生成机制分析",
+      "url": "https://chatgpt.com/c/6ac7745e-f838-83ec-9c28-ea633eaec279",
+      "createdAt": "2026-10-08T08:51:45.034Z",
+      "folder": "",
+      "order": 15
     }
   ]
 }
