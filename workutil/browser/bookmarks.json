@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-08T03:28:47.441Z",
+  "updatedAt": "2026-10-08T09:04:42.955Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -121,6 +121,22 @@
       "createdAt": "2026-09-24T06:17:32.738Z",
       "folder": "",
       "order": 4
+    },
+    {
+      "id": "bookmark-1791450269128-5de78d387329e",
+      "title": "生成器",
+      "url": "https://chatgpt.com/c/6ac759e4-5bb8-83ec-b78d-2e5bd1a2f7c7",
+      "createdAt": "2026-10-08T09:04:29.128Z",
+      "folder": "",
+      "order": 16
+    },
+    {
+      "id": "bookmark-1791449505034-e3fd558a6bbaa",
+      "title": "PDF生成机制分析",
+      "url": "https://chatgpt.com/c/6ac7380a-91e4-83ec-9b6c-a7cb0d7bd8ee",
+      "createdAt": "2026-10-08T08:51:45.034Z",
+      "folder": "",
+      "order": 15
     }
   ]
 }
