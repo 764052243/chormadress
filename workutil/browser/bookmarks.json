@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-11T01:30:54.523Z",
+  "updatedAt": "2026-10-11T08:25:41.085Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -140,11 +140,11 @@
     {
       "id": "bookmark-1791450269128-5de78d387329e",
       "title": "生成器",
-      "url": "https://chatgpt.com/c/6acae695-f73c-83ec-bf39-4814455935a9",
+      "url": "https://chatgpt.com/c/6acb47c9-9808-83ec-b37e-7dea325046f3",
       "createdAt": "2026-10-08T09:04:29.128Z",
-      "updatedAt": "2026-10-11T01:30:39.618Z",
+      "updatedAt": "2026-10-11T08:25:00.176Z",
       "folder": "",
-      "order": 13
+      "order": 5
     },
     {
       "id": "bookmark-1791453290241-6d0b55a623a418",
@@ -199,6 +199,15 @@
       "updatedAt": "2026-10-10T03:10:40.080Z",
       "folder": "",
       "order": 10
+    },
+    {
+      "id": "bookmark-1791703621154-3a28fa7b867a38",
+      "title": "生成器001",
+      "url": "https://chatgpt.com/c/6acb3a36-ab2c-83ec-8171-96419ce4d926",
+      "createdAt": "2026-10-11T07:27:01.155Z",
+      "updatedAt": "2026-10-11T07:28:30.084Z",
+      "folder": "",
+      "order": 6
     }
   ]
 }
