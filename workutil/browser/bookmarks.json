@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-14T03:20:31.457Z",
+  "updatedAt": "2026-10-15T07:14:46.164Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -226,6 +226,15 @@
       "updatedAt": "2026-10-13T02:09:18.500Z",
       "folder": "",
       "order": 9
+    },
+    {
+      "id": "bookmark-1791719393525-b222ff02b51f68",
+      "title": "生成器003",
+      "url": "https://chatgpt.com/c/6ad07d37-fae0-83ec-b3ff-d3d3177b6b52",
+      "createdAt": "2026-10-11T11:49:53.525Z",
+      "updatedAt": "2026-10-15T07:14:26.573Z",
+      "folder": "",
+      "order": 8
     }
   ]
 }
