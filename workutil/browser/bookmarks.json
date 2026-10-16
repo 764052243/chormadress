@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-16T01:30:40.450Z",
+  "updatedAt": "2026-10-16T06:57:42.551Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -235,6 +235,24 @@
       "updatedAt": "2026-10-15T07:14:26.573Z",
       "folder": "",
       "order": 8
+    },
+    {
+      "id": "bookmark-1792133838056-d73caee186fa28",
+      "title": "开封市预决算公开系统",
+      "url": "http://120.46.35.146:8080/bmp_gfa/index",
+      "createdAt": "2026-10-16T06:57:18.056Z",
+      "updatedAt": "2026-10-16T06:57:23.432Z",
+      "folder": "业务",
+      "order": 1
+    },
+    {
+      "id": "bookmark-1792112537484-b0bbaf06a4a53",
+      "title": "山西国产预决算登录",
+      "url": "http://10.123.252.148:8080/sso_portal/login",
+      "createdAt": "2026-10-16T01:02:17.484Z",
+      "updatedAt": "2026-10-16T01:03:03.098Z",
+      "folder": "业务",
+      "order": 0
     }
   ]
 }
