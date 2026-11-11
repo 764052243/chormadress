@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-11T07:51:21.011Z",
+  "updatedAt": "2026-11-11T08:34:51.125Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -280,6 +280,15 @@
       "updatedAt": "2026-11-11T07:50:51.322Z",
       "folder": "",
       "order": 29
+    },
+    {
+      "id": "bookmark-1794386068286-de7b3fd5b89798",
+      "title": "UI设计师-大屏002",
+      "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6af423ec-bb98-83ec-878d-755a6f8fca1c",
+      "createdAt": "2026-11-11T08:34:28.286Z",
+      "updatedAt": "2026-11-11T08:34:28.286Z",
+      "folder": "",
+      "order": 30
     }
   ]
 }
