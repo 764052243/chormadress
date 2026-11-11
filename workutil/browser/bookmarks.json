@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-11T02:41:47.801Z",
+  "updatedAt": "2026-11-11T07:51:21.011Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -266,11 +266,20 @@
     {
       "id": "bookmark-1793863707090-8fcbc48a5a05",
       "title": "UI设计师",
-      "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6aeda69e-cb28-83ec-a905-86bc80390d9d",
+      "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6af40db7-0fac-83ec-860c-d152d7e9f469",
       "createdAt": "2026-11-05T07:28:27.090Z",
-      "updatedAt": "2026-11-06T10:08:35.070Z",
+      "updatedAt": "2026-11-11T07:50:35.265Z",
       "folder": "",
       "order": 28
+    },
+    {
+      "id": "bookmark-1794383451322-3af15fae90da3",
+      "title": "UI设计师000",
+      "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6af41de5-1f10-83ec-955c-c978faf00e5c",
+      "createdAt": "2026-11-11T07:50:51.322Z",
+      "updatedAt": "2026-11-11T07:50:51.322Z",
+      "folder": "",
+      "order": 29
     }
   ]
 }
