@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-16T10:48:32.809Z",
+  "updatedAt": "2026-11-16T11:26:12.718Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -298,6 +298,15 @@
       "updatedAt": "2026-11-12T09:09:47.120Z",
       "folder": "",
       "order": 32
+    },
+    {
+      "id": "bookmark-1794828348889-152bc3ed3dd09",
+      "title": "SSO000",
+      "url": "https://chatgpt.com/g/g-p-6af6d4d853d88191a948bd6afbf575d9-ssoweb/c/6afae81a-568c-83ec-bf01-7b837d9540b6",
+      "createdAt": "2026-11-16T11:25:48.889Z",
+      "updatedAt": "2026-11-16T11:25:55.989Z",
+      "folder": "",
+      "order": 33
     }
   ]
 }
