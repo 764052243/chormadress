@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-19T03:43:45.272Z",
+  "updatedAt": "2026-11-19T03:53:33.095Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -316,6 +316,15 @@
       "updatedAt": "2026-11-19T03:29:26.534Z",
       "folder": "",
       "order": 11
+    },
+    {
+      "id": "bookmark-1795060371072-cdcf56a75a8de",
+      "title": "PUB001",
+      "url": "https://chatgpt.com/g/g-p-6ae04ae087dc8191be2f1903c687f268-bmppubweb/c/6afe727e-2af0-83ec-bf71-5915d6f076d7",
+      "createdAt": "2026-11-19T03:52:51.072Z",
+      "updatedAt": "2026-11-19T03:53:19.126Z",
+      "folder": "",
+      "order": 28
     }
   ]
 }
