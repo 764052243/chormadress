@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-23T03:08:57.812Z",
+  "updatedAt": "2026-11-23T03:12:59.582Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -25,63 +25,63 @@
       "title": "扩展员工",
       "url": "https://xn--jsrt9pl8ab2i/",
       "createdAt": "2026-09-24T06:31:59.101Z",
-      "updatedAt": "2026-09-24T06:31:59.101Z",
+      "updatedAt": "2026-11-20T07:41:39.528Z",
       "folder": "",
-      "order": 18
+      "order": 22
     },
     {
       "id": "bookmark-1790160332618-d199cef62579e",
       "title": "AI001",
       "url": "https://chatgpt.com/c/6ab3ad96-f8b0-83ec-8080-c7ba007c8ad0",
       "createdAt": "2026-09-23T10:45:32.618Z",
-      "updatedAt": "2026-09-23T10:45:32.618Z",
+      "updatedAt": "2026-11-20T07:41:42.088Z",
       "folder": "",
-      "order": 15
+      "order": 20
     },
     {
       "id": "bookmark-1790158044885-863b84d8cc9c78",
       "title": "迁移会话",
       "url": "https://xn--6oq385hphl0ud/",
       "createdAt": "2026-09-23T10:07:24.885Z",
-      "updatedAt": "2026-09-23T10:07:24.885Z",
+      "updatedAt": "2026-11-20T07:41:36.578Z",
       "folder": "",
-      "order": 17
+      "order": 23
     },
     {
       "id": "bookmark-1790143704198-fcdf59ef8ce79",
       "title": "Gitee",
       "url": "https://gitee.com/wjxwycwy/platform/mirrors#/",
       "createdAt": "2026-09-23T06:08:24.198Z",
-      "updatedAt": "2026-09-23T06:08:24.198Z",
+      "updatedAt": "2026-10-12T04:54:15.343Z",
       "folder": "",
-      "order": 4
+      "order": 3
     },
     {
       "id": "bookmark-1790046139279-fc0e0c0828243",
       "title": "AI002",
       "url": "https://chatgpt.com/g/g-p-6a98e76afd5481919f8cf4bc10d52240/c/6aaa00b2-fd64-83ec-b193-2e353d3edc8f",
       "createdAt": "2026-09-22T03:02:19.279Z",
-      "updatedAt": "2026-09-22T03:02:19.279Z",
+      "updatedAt": "2026-11-20T07:41:40.729Z",
       "folder": "",
-      "order": 16
+      "order": 21
     },
     {
       "id": "bookmark-1790045836764-d81b7130127ac8",
       "title": "AI000",
       "url": "https://chatgpt.com/g/g-p-6a98e76afd5481919f8cf4bc10d52240-ai/c/6ae0565c-4348-83e8-ac0f-a3045b0ea509",
       "createdAt": "2026-09-22T02:57:16.764Z",
-      "updatedAt": "2026-10-27T07:47:13.427Z",
+      "updatedAt": "2026-11-20T07:41:43.985Z",
       "folder": "",
-      "order": 16
+      "order": 19
     },
     {
       "id": "bookmark-1789959090886-67ca574140c57",
       "title": "AI PLATFORM",
       "url": "http://10.10.25.11:8081/login",
       "createdAt": "2026-09-21T02:51:30.886Z",
-      "updatedAt": "2026-09-21T02:51:30.886Z",
+      "updatedAt": "2026-11-20T07:41:45.123Z",
       "folder": "",
-      "order": 13
+      "order": 18
     },
     {
       "id": "bookmark-1789953551007-9e795eb5cdbe",
@@ -133,7 +133,7 @@
       "title": "本地员工000",
       "url": "https://chatgpt.com/g/g-p-6ae057bcb7d081919a0dd75a9bd85b7d-workutil/c/6b03adc1-7088-83ec-98c2-cffebfedebfc",
       "createdAt": "2026-09-24T06:17:32.738Z",
-      "updatedAt": "2026-11-23T03:07:14.823Z",
+      "updatedAt": "2026-11-23T03:12:18.947Z",
       "folder": "",
       "order": 4
     },
@@ -142,45 +142,45 @@
       "title": "生成器",
       "url": "https://chatgpt.com/c/6adaed6c-d3ac-83ec-adb8-e6ca8c68f567",
       "createdAt": "2026-10-08T09:04:29.128Z",
-      "updatedAt": "2026-10-23T05:15:49.207Z",
+      "updatedAt": "2026-11-20T07:41:50.993Z",
       "folder": "",
-      "order": 5
+      "order": 13
     },
     {
       "id": "bookmark-1791453290241-6d0b55a623a418",
       "title": "PDF Engine Demo",
       "url": "http://127.0.0.1:3099/",
       "createdAt": "2026-10-08T09:54:50.241Z",
-      "updatedAt": "2026-10-08T09:54:50.241Z",
+      "updatedAt": "2026-11-20T07:41:32.393Z",
       "folder": "",
-      "order": 21
+      "order": 26
     },
     {
       "id": "bookmark-1791449505034-e3fd558a6bbaa",
       "title": "PDF生成机制分析",
       "url": "https://chatgpt.com/c/6ac7745e-f838-83ec-9c28-ea633eaec279",
       "createdAt": "2026-10-08T08:51:45.034Z",
-      "updatedAt": "2026-10-08T08:51:45.034Z",
+      "updatedAt": "2026-11-20T07:41:31.417Z",
       "folder": "",
-      "order": 19
+      "order": 27
     },
     {
       "id": "bookmark-1790088042232-1d697d8f2a223",
       "title": "000-脚本A",
       "url": "https://chatgpt.com/c/6ab292d7-b680-83ec-a367-edfd34498aa2",
       "createdAt": "2026-09-22T14:40:42.232Z",
-      "updatedAt": "2026-09-22T14:40:42.232Z",
+      "updatedAt": "2026-11-20T07:41:34.922Z",
       "folder": "",
-      "order": 6
+      "order": 24
     },
     {
       "id": "bookmark-1790042816192-b53cce261bd8c",
       "title": "整理角色识别资料",
       "url": "https://chatgpt.com/c/6ab1d5c0-8d9c-83ec-8df4-bf487b326182",
       "createdAt": "2026-09-22T02:06:56.192Z",
-      "updatedAt": "2026-09-22T02:06:56.192Z",
+      "updatedAt": "2026-11-20T07:41:33.715Z",
       "folder": "",
-      "order": 5
+      "order": 25
     },
     {
       "id": "bookmark-1791601293471-ba050656498ba8",
@@ -205,36 +205,36 @@
       "title": "生成器001",
       "url": "https://chatgpt.com/c/6ad17e0a-12e4-83ec-b454-35abcfa7d0d5",
       "createdAt": "2026-10-11T07:27:01.155Z",
-      "updatedAt": "2026-10-16T01:30:10.438Z",
+      "updatedAt": "2026-11-20T07:41:49.905Z",
       "folder": "",
-      "order": 6
+      "order": 14
     },
     {
       "id": "bookmark-1791712785823-09509373f29a8",
       "title": "生成器002",
       "url": "https://chatgpt.com/c/6ad09233-75b4-83ec-ab48-8590d0316217",
       "createdAt": "2026-10-11T09:59:45.823Z",
-      "updatedAt": "2026-10-15T08:44:11.358Z",
+      "updatedAt": "2026-11-20T07:41:49.058Z",
       "folder": "",
-      "order": 7
+      "order": 15
     },
     {
       "id": "bookmark-1791857287156-fc7c1cc346fe78",
       "title": "生成器004",
       "url": "https://chatgpt.com/c/6ad09193-16f8-83ec-a582-0a026cbadb1c",
       "createdAt": "2026-10-13T02:08:07.156Z",
-      "updatedAt": "2026-10-15T08:41:34.715Z",
+      "updatedAt": "2026-11-20T07:41:45.977Z",
       "folder": "",
-      "order": 9
+      "order": 17
     },
     {
       "id": "bookmark-1791719393525-b222ff02b51f68",
       "title": "生成器003",
       "url": "https://chatgpt.com/c/6ad07d37-fae0-83ec-b3ff-d3d3177b6b52",
       "createdAt": "2026-10-11T11:49:53.525Z",
-      "updatedAt": "2026-10-15T07:14:26.573Z",
+      "updatedAt": "2026-11-20T07:41:48.225Z",
       "folder": "",
-      "order": 8
+      "order": 16
     },
     {
       "id": "bookmark-1792133838056-d73caee186fa28",
@@ -248,9 +248,9 @@
     {
       "id": "bookmark-1792112537484-b0bbaf06a4a53",
       "title": "山西国产预决算登录",
-      "url": "http://10.123.252.148:8080/sso_portal/login",
+      "url": "http://10.123.252.148:8888/sso_portal/login",
       "createdAt": "2026-10-16T01:02:17.484Z",
-      "updatedAt": "2026-10-16T01:03:03.098Z",
+      "updatedAt": "2026-10-16T07:12:56.260Z",
       "folder": "业务",
       "order": 0
     },
@@ -259,9 +259,9 @@
       "title": "PUB000",
       "url": "https://chatgpt.com/g/g-p-6ae04ae087dc8191be2f1903c687f268-bmppubweb/c/6afadf39-52ac-83ec-8936-dbd7fbb293ca",
       "createdAt": "2026-10-20T07:01:50.475Z",
-      "updatedAt": "2026-11-16T10:48:13.534Z",
+      "updatedAt": "2026-11-20T07:41:27.045Z",
       "folder": "",
-      "order": 27
+      "order": 28
     },
     {
       "id": "bookmark-1793863707090-8fcbc48a5a05",
@@ -277,36 +277,36 @@
       "title": "UI设计师000",
       "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6af41de5-1f10-83ec-955c-c978faf00e5c",
       "createdAt": "2026-11-11T07:50:51.322Z",
-      "updatedAt": "2026-11-11T07:50:51.322Z",
+      "updatedAt": "2026-11-20T07:41:22.399Z",
       "folder": "",
-      "order": 29
+      "order": 32
     },
     {
       "id": "bookmark-1794386068286-de7b3fd5b89798",
       "title": "UI设计师-大屏002",
       "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6af423ec-bb98-83ec-878d-755a6f8fca1c",
       "createdAt": "2026-11-11T08:34:28.286Z",
-      "updatedAt": "2026-11-11T08:34:28.286Z",
+      "updatedAt": "2026-11-20T07:41:18.289Z",
       "folder": "",
-      "order": 30
+      "order": 34
     },
     {
       "id": "bookmark-1794474587120-af09e8c17c5cd8",
       "title": "UI设计师-业务003",
       "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6af58206-a8d8-83ec-a63e-b9dc1a1503c4",
       "createdAt": "2026-11-12T09:09:47.120Z",
-      "updatedAt": "2026-11-12T09:09:47.120Z",
+      "updatedAt": "2026-11-20T07:41:16.985Z",
       "folder": "",
-      "order": 32
+      "order": 35
     },
     {
       "id": "bookmark-1794828348889-152bc3ed3dd09",
       "title": "SSO000",
       "url": "https://chatgpt.com/g/g-p-6af6d4d853d88191a948bd6afbf575d9-ssoweb/c/6afe5206-f508-83ec-88ec-2c07bce2924e",
       "createdAt": "2026-11-16T11:25:48.889Z",
-      "updatedAt": "2026-11-19T01:34:23.114Z",
+      "updatedAt": "2026-11-20T07:41:15.959Z",
       "folder": "",
-      "order": 33
+      "order": 36
     },
     {
       "id": "bookmark-1794451644938-69c57b23b9982",
@@ -322,9 +322,62 @@
       "title": "PUB001",
       "url": "https://chatgpt.com/g/g-p-6ae04ae087dc8191be2f1903c687f268-bmppubweb/c/6afe727e-2af0-83ec-bf71-5915d6f076d7",
       "createdAt": "2026-11-19T03:52:51.072Z",
-      "updatedAt": "2026-11-19T03:53:19.126Z",
+      "updatedAt": "2026-11-20T07:41:26.130Z",
       "folder": "",
-      "order": 28
+      "order": 29
+    },
+    {
+      "id": "bookmark-1795160460594-8741a3e86e163",
+      "title": "本地员工008",
+      "url": "https://chatgpt.com/g/g-p-6ae057bcb7d081919a0dd75a9bd85b7d-workutil/c/6afff976-470c-83ec-a0cf-4472c9ad0896",
+      "createdAt": "2026-11-20T07:41:00.594Z",
+      "updatedAt": "2026-11-20T07:41:50.993Z",
+      "folder": "",
+      "order": 12
+    },
+    {
+      "id": "bookmark-1795160262978-93e05bc91b8e",
+      "title": "PUB002",
+      "url": "https://chatgpt.com/g/g-p-6ae04ae087dc8191be2f1903c687f268-bmppubweb/c/6afff8b4-318c-83ec-bf2d-2c879ad19840",
+      "createdAt": "2026-11-20T07:37:42.978Z",
+      "updatedAt": "2026-11-20T07:41:24.683Z",
+      "folder": "",
+      "order": 30
+    },
+    {
+      "id": "bookmark-1794811553977-863ce942de4c5",
+      "title": "JS",
+      "url": "https://chatgpt.com/c/6aeb0064-f390-83ec-9bb0-ec91569ea9d1",
+      "createdAt": "2026-11-16T06:45:53.977Z",
+      "updatedAt": "2026-11-20T07:41:15.185Z",
+      "folder": "",
+      "order": 37
+    },
+    {
+      "id": "bookmark-1793863707090-8fcbc48a5a05",
+      "title": "UI设计师-业务001",
+      "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6af40db7-0fac-83ec-860c-d152d7e9f469",
+      "createdAt": "2026-11-05T07:28:27.090Z",
+      "updatedAt": "2026-11-20T07:41:19.718Z",
+      "folder": "",
+      "order": 33
+    },
+    {
+      "id": "bookmark-1793672670517-fdfe88949c27d",
+      "title": "整理Codex优化指南",
+      "url": "https://chatgpt.com/g/g-p-6ae06567da3c81919134cd94fd922227-speed/c/6adf1bd0-8c1c-83ee-9ee8-01be6cd679e7",
+      "createdAt": "2026-11-03T02:24:30.517Z",
+      "updatedAt": "2026-11-20T07:41:23.616Z",
+      "folder": "",
+      "order": 31
+    }
+  ],
+  "folders": [
+    {
+      "id": "folder-1792112578627-b5a592511dd698",
+      "name": "业务",
+      "order": 0,
+      "createdAt": "2026-10-16T01:02:58.627Z"
     }
   ]
 }
