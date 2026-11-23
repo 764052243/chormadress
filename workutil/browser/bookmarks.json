@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-23T03:12:59.582Z",
+  "updatedAt": "2026-11-23T03:52:47.073Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -304,9 +304,9 @@
       "title": "SSO000",
       "url": "https://chatgpt.com/g/g-p-6af6d4d853d88191a948bd6afbf575d9-ssoweb/c/6afe5206-f508-83ec-88ec-2c07bce2924e",
       "createdAt": "2026-11-16T11:25:48.889Z",
-      "updatedAt": "2026-11-20T07:41:15.959Z",
+      "updatedAt": "2026-11-23T03:52:42.274Z",
       "folder": "",
-      "order": 36
+      "order": 37
     },
     {
       "id": "bookmark-1794451644938-69c57b23b9982",
@@ -349,9 +349,9 @@
       "title": "JS",
       "url": "https://chatgpt.com/c/6aeb0064-f390-83ec-9bb0-ec91569ea9d1",
       "createdAt": "2026-11-16T06:45:53.977Z",
-      "updatedAt": "2026-11-20T07:41:15.185Z",
+      "updatedAt": "2026-11-23T03:52:42.274Z",
       "folder": "",
-      "order": 37
+      "order": 36
     },
     {
       "id": "bookmark-1793863707090-8fcbc48a5a05",
