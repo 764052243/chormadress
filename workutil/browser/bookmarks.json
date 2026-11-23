@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-23T03:52:56.704Z",
+  "updatedAt": "2026-11-23T03:53:04.411Z",
   "bookmarks": [
     {
       "id": "bookmark-1790232499204-237408089c4b48",
@@ -277,18 +277,18 @@
       "title": "UI设计师000",
       "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6af41de5-1f10-83ec-955c-c978faf00e5c",
       "createdAt": "2026-11-11T07:50:51.322Z",
-      "updatedAt": "2026-11-23T03:52:49.528Z",
+      "updatedAt": "2026-11-23T03:52:57.418Z",
       "folder": "",
-      "order": 33
+      "order": 32
     },
     {
       "id": "bookmark-1794386068286-de7b3fd5b89798",
       "title": "UI设计师-大屏002",
       "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6af423ec-bb98-83ec-878d-755a6f8fca1c",
       "createdAt": "2026-11-11T08:34:28.286Z",
-      "updatedAt": "2026-11-23T03:52:46.977Z",
+      "updatedAt": "2026-11-23T03:52:59.703Z",
       "folder": "",
-      "order": 35
+      "order": 34
     },
     {
       "id": "bookmark-1794474587120-af09e8c17c5cd8",
@@ -349,27 +349,27 @@
       "title": "JS",
       "url": "https://chatgpt.com/c/6aeb0064-f390-83ec-9bb0-ec91569ea9d1",
       "createdAt": "2026-11-16T06:45:53.977Z",
-      "updatedAt": "2026-11-23T03:52:50.402Z",
+      "updatedAt": "2026-11-23T03:52:59.703Z",
       "folder": "",
-      "order": 31
+      "order": 35
     },
     {
       "id": "bookmark-1793863707090-8fcbc48a5a05",
       "title": "UI设计师-业务001",
       "url": "https://chatgpt.com/g/g-p-6ae2f80a859081918d4c387b2cee5edf-uishe-ji-shi/c/6af40db7-0fac-83ec-860c-d152d7e9f469",
       "createdAt": "2026-11-05T07:28:27.090Z",
-      "updatedAt": "2026-11-23T03:52:49.520Z",
+      "updatedAt": "2026-11-23T03:52:58.217Z",
       "folder": "",
-      "order": 34
+      "order": 33
     },
     {
       "id": "bookmark-1793672670517-fdfe88949c27d",
       "title": "整理Codex优化指南",
       "url": "https://chatgpt.com/g/g-p-6ae06567da3c81919134cd94fd922227-speed/c/6adf1bd0-8c1c-83ee-9ee8-01be6cd679e7",
       "createdAt": "2026-11-03T02:24:30.517Z",
-      "updatedAt": "2026-11-23T03:52:50.402Z",
+      "updatedAt": "2026-11-23T03:52:55.705Z",
       "folder": "",
-      "order": 32
+      "order": 31
     }
   ],
   "folders": [
